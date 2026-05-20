@@ -1,125 +1,260 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aliza%20Simkhada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AWS%20Certified&descAlignY=55&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aliza+%F0%9F%91%8B;Full-Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;React+%7C+Node.js+%7C+PostgreSQL+%7C+AWS;AWS+Certified+Solutions+Architect;Always+building%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0f0c29,35:302b63,70:c471ed,100:f64f9b&text=Aliza%20Simkhada&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20PostgreSQL%20%7C%20AWS%20Certified&descSize=17&descAlignY=58&animation=twinkling" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliza-simkhada-711265287/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simkhadaaliza080@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/07alizaa)
-[![AWS](https://img.shields.io/badge/AWS_SAA-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=F9A8D4&center=true&vCenter=true&width=850&height=35&lines=Building+clean+and+scalable+web+applications;Frontend+interfaces+%2B+Backend+APIs+%2B+Cloud+deployment;React.js+%7C+Node.js+%7C+Express.js+%7C+PostgreSQL;Learning%2C+building%2C+and+growing+as+a+developer" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=07alizaa&label=Profile+Views&color=58a6ff&style=flat" alt="profile views" />
+<a href="mailto:simkhadaaliza080@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFF1F7?style=for-the-badge&logo=gmail&logoColor=DB2777" />
+</a>
+<a href="https://www.linkedin.com/in/aliza-simkhada-711265287/">
+  <img src="https://img.shields.io/badge/LinkedIn-F5F3FF?style=for-the-badge&logo=linkedin&logoColor=7C3AED" />
+</a>
+<a href="https://github.com/07alizaa">
+  <img src="https://img.shields.io/badge/GitHub-FFF1F7?style=for-the-badge&logo=github&logoColor=BE185D" />
+</a>
+<a href="https://aliza-portfolio-htzt.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-F5F3FF?style=for-the-badge&logo=vercel&logoColor=7C3AED" />
+</a>
+
+<br><br>
 
 </div>
 
 ---
 
-### About me
+<table>
+<tr>
+<td width="60%">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340">
+## About Me
 
-Full-stack developer with hands-on experience building web applications using **React.js**, **Node.js**, **Express.js**, and RESTful APIs. AWS Certified Solutions Architect – Associate, with experience deploying on EC2, S3, and RDS. Passionate about building scalable, data-driven applications.
+I am an aspiring **Full-Stack Developer** with hands-on experience building web applications using **React.js, Node.js, Express.js, RESTful APIs, PostgreSQL, MongoDB, Tailwind CSS, Docker, CI/CD, and AWS**.
 
-- 🎓 BSc Software Engineering — University of Bedfordshire (2026)
-- 🏅 AWS Certified Solutions Architect – Associate
-- 💼 Open to junior full-stack / frontend developer roles
-- 📍 Based in Nepal
+I enjoy building clean user interfaces, connecting frontend applications with backend APIs, and deploying real-world projects. I am currently improving my skills in **Next.js, TypeScript, Redux, PostgreSQL, and scalable backend development**.
 
-<br clear="right">
+- BSc Software Engineering — University of Bedfordshire
+- AWS Certified Solutions Architect – Associate
+- Based in Nepal
+- Open to full-stack, frontend, and junior developer opportunities
+- Interested in clean UI, APIs, database design, and cloud deployment
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280" alt="girl working on laptop" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=900&color=F472B6&center=true&vCenter=true&width=300&height=28&lines=Frontend+development;Backend+APIs;Cloud+deployment" alt="about typing animation" />
+
+</td>
+</tr>
+</table>
 
 ---
-
-### Tech stack
 
 <div align="center">
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## Tech Stack
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center" width="220">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+<br><br>
+
+`HTML` `CSS` `JavaScript`  
+`React.js` `Tailwind CSS`
+
+</td>
+
+<td align="center" width="220">
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql" />
+
+<br><br>
+
+`Node.js` `Express.js`  
+`PostgreSQL` `MongoDB` `MySQL`
+
+</td>
+
+<td align="center" width="220">
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" />
+
+<br><br>
+
+`AWS` `Docker`  
+`GitHub Actions` `Git`
+
+</td>
+
+<td align="center" width="220">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode,firebase,vercel" />
+
+<br><br>
+
+`Postman` `Figma` `VS Code`  
+`Firebase` `Vercel`
+
+</td>
+</tr>
+</table>
+
 ---
-
-### Featured projects
-
-**🤖 GrocerAI** · [GitHub](https://github.com/07alizaa/GrocerAI)
-
-AI-powered grocery platform with intelligent meal planner and product-search chatbot. Deployed on AWS (EC2, S3, RDS) with JWT auth and automated CI/CD pipelines. Built a vendor dashboard with live analytics.
-
-`React` `Node.js/Express` `PostgreSQL` `AWS` `CI/CD` `JWT`
-
----
-
-**📊 Sales Dashboard** · [GitHub](https://github.com/07alizaa/sales_dashboard)
-Responsive business intelligence dashboard presenting real-time sales insights through interactive charts. Built modular, reusable React components and integrated RESTful APIs for dynamic data rendering.
-
-`React` `Node.js` `Express` `MongoDB` `REST APIs`
-
----
-
-**💻 Portfolio Website** · [Live Demo](#)
-
-Personal portfolio with a Dockerized React app using multi-stage builds, automated GitHub Actions CI/CD, and nginx reverse proxy on AWS EC2. Zero-downtime deployments.
-
-`React` `Docker` `GitHub Actions` `AWS EC2` `nginx`
-
----
-
-### Certifications
-
-🏅 **AWS Certified Solutions Architect – Associate** (Amazon Web Services)  
-🏅 **CCNAv7: Introduction to Networks** (Cisco Networking Academy)
-
----
-
-### GitHub stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=07alizaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07alizaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=07alizaa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## Featured Projects
 
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
+### GrocerAI
+
+Full-stack grocery platform with meal planning, product-search chatbot, vendor dashboard, JWT authentication, PostgreSQL database, and AWS deployment.
+
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `PostgreSQL` `AWS` `JWT` `CI/CD`
+
+<br>
+
+<a href="https://github.com/07alizaa/GrocerAI">
+  <img src="https://img.shields.io/badge/View_Project-FFF1F7?style=for-the-badge&logo=github&logoColor=DB2777" />
+</a>
+
+</td>
+<td width="50%">
+
+### Sales Dashboard
+
+Responsive dashboard for displaying business insights using interactive charts, reusable React components, REST API integration, and dynamic data rendering.
+
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+<br>
+
+<a href="https://github.com/07alizaa/sales_dashboard">
+  <img src="https://img.shields.io/badge/View_Project-F5F3FF?style=for-the-badge&logo=github&logoColor=7C3AED" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Portfolio Website
+
+Personal portfolio website showcasing projects, technical skills, education, certifications, and contact details in a clean responsive layout.
+
+**Tech Stack:**  
+`React` `Tailwind CSS` `Vercel` `Responsive Design`
+
+<br>
+
+<a href="https://aliza-portfolio-htzt.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-FFF1F7?style=for-the-badge&logo=vercel&logoColor=DB2777" />
+</a>
+
+</td>
+<td width="50%">
+
+### Current Focus
+
+Currently improving my skills in Next.js, TypeScript, Redux, PostgreSQL, API design, and scalable full-stack development.
+
+**Focus Areas:**  
+`Next.js` `TypeScript` `Redux` `Backend APIs` `Database Design`
+
+<br>
+
+<a href="https://github.com/07alizaa">
+  <img src="https://img.shields.io/badge/View_GitHub-F5F3FF?style=for-the-badge&logo=github&logoColor=7C3AED" />
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
-### Contribution graph
+<div align="center">
+
+## Certifications
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="350">
+
+### AWS Certified Solutions Architect – Associate
+
+Amazon Web Services
+
+</td>
+<td align="center" width="350">
+
+### CCNAv7: Introduction to Networks
+
+Cisco Networking Academy
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## GitHub Overview
+
+---
+
+<div align="center">
+
+## GitHub Activity
+
+Currently building and improving projects in:
+
+`React.js` `Node.js` `Express.js` `PostgreSQL` `MongoDB` `AWS` `Docker` `CI/CD`
+
+<br>
+
+<a href="https://github.com/07alizaa">
+  <img src="https://img.shields.io/badge/View_My_GitHub-FFF1F7?style=for-the-badge&logo=github&logoColor=DB2777" />
+</a>
+
+</div>
+-------
+
+<div align="center">
+
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/07alizaa/07alizaa/output/github-snake-dark.svg" />
@@ -127,6 +262,34 @@ Personal portfolio with a Dockerized React app using multi-stage builds, automat
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/07alizaa/07alizaa/output/github-snake.svg" />
 </picture>
 
+</div>
+
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<div align="center">
+
+## Connect With Me
+
+Open to internship, junior developer, frontend, and full-stack development opportunities.
+
+<br>
+
+<a href="mailto:simkhadaaliza080@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFF1F7?style=for-the-badge&logo=gmail&logoColor=DB2777" />
+</a>
+<a href="https://www.linkedin.com/in/aliza-simkhada-711265287/">
+  <img src="https://img.shields.io/badge/LinkedIn-F5F3FF?style=for-the-badge&logo=linkedin&logoColor=7C3AED" />
+</a>
+<a href="https://aliza-portfolio-htzt.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FFF1F7?style=for-the-badge&logo=vercel&logoColor=DB2777" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=07alizaa&label=Profile%20Views&color=f472b6&style=flat-square" alt="profile views" />
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f64f9b,40:c471ed,75:302b63,100:0f0c29" />
+
+</div>
