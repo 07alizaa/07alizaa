@@ -244,22 +244,6 @@ Personal portfolio with Dockerized multi-stage React build, automated CI/CD via 
 
 <div align="center">
 
-### Contribution Graph
-
-<br>
-
-[![Aliza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=07alizaa&bg_color=1a0533&color=f9a8d4&line=d946ef&point=ffffff&area=true&hide_border=true)](https://github.com/07alizaa)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
 ### Contribution Snake
 
 <picture>
