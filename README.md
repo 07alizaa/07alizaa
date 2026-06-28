@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:1a0533,35:3b0764,70:c471ed,100:f9a8d4&text=Aliza%20Simkhada&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend-Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20AWS%20Certified&descSize=15&descAlignY=56&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:1a0533,35:3b0764,70:c471ed,100:f9a8d4&text=Aliza%20Simkhada&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20AWS%20Certified&descSize=15&descAlignY=56&animation=twinkling" />
 
 <br>
 
@@ -45,8 +45,8 @@ const aliza = {
 ```
 
 <br>
+I build modern frontend web applications with **Next.js, React, and TypeScript — focusing on clean interfaces, responsive design, and smooth user experiences.
 
-I build full-stack web applications — clean interfaces, reliable APIs, and real cloud deployments. Currently in my final year of Software Engineering and actively looking for opportunities where I can contribute and keep growing.
 
 <br>
 
